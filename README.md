@@ -2,6 +2,12 @@
 
 ## How to use:
 
+### Requirements:
+1. Have an active git account: to read the git from google colab
+2. Have a google account: to run the google colab notebooks
+
+### Steps
+
 1. Open the file [data_analysis_prediction.ipynb](https://github.com/adrian-ja-projects/train-prediction-project/blob/main/data_analysis_train_prediction.ipynb)
 2. Click on the Google colab logo in the file.
 3. You might get a message saying the notebook does not exist. Just click accept and then select the notebook data_analysis_predictions
