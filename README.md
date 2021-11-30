@@ -11,9 +11,10 @@
 ## What is doing:
 
 This programme is using google colabs notebooks as environment to reduce dependency risks. 
-1. Extract data from the digitraffic API.
-2. Stage the data in an staging folder. 
-3. Read the JSON file and automatically flatten the file.
-4. Write the flat file into a parquet table in the RAW zone. (original design was to upload the file into a DB, time contrains change the design to write into data lake format)
-5. Read the parquet table and transform to get the table ready for analysis. Write table into a Use Case area (Golden Area)
-6. Analysis is carried out to get a suggested maximun departing time for the IC27 train.
+1. Install all dependencies, including a spark instance
+2. Extract data from the digitraffic API.
+3. Stage the data in an staging folder. 
+4. Read the JSON file and automatically flatten the file.
+5. Write the flat file into a parquet table in the RAW zone. (original design was to upload the file into a DB, time contrains change the design to write into data lake format)
+6. Read the parquet table and transform to get the table ready for analysis. Write table into a Use Case area (Golden Area)
+7. Analysis is carried out to get a suggested maximun departing time for the IC27 train.
