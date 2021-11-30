@@ -4,9 +4,10 @@
 
 1. Open the file [data_analysis_prediction.ipynb](https://github.com/adrian-ja-projects/train-prediction-project/blob/main/data_analysis_train_prediction.ipynb)
 2. Click on the Google colab logo in the file.
-3. Run all the cells. It should take around 3 mins to run all.
-4. Get the recommendation done by the data analysis in the last cell of the notebook.
-5. In the notebook, ff you click the folder icon on the left side bar, you will see all the data extract in multiple data zones.
+3. You might get a message saying the notebook does not exist. Just click accept and then select the notebook data_analysis_predictions
+4. Run all the cells. It should take around 3 mins to run all.
+5. Get the recommendation done by the data analysis in the last cell of the notebook.
+6. In the notebook, if you click the folder icon on the left side bar, you will see all the data extract in multiple data zones.
 
 ## What is doing:
 
